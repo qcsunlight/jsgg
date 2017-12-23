@@ -1,0 +1,97 @@
+.site-header {
+    height: 120px;
+    width: 100%;
+    background-color: #f6f6f6;
+}
+
+.logo h1 {
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+    display: block;
+}
+
+.logo {
+    padding-top: 1px;
+    height: 100px;
+    padding-left: 12%;
+}
+
+.left-column {
+    width: 20%;
+    display: block;
+}
+
+.navigation {
+    background: #96b97d;
+    width: 100%;
+}
+
+.container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#data-manager {
+    font-size: 30px;
+    color: #fff;
+}
+
+/*.nav li a {
+    color: #fff;
+}*/
+
+#index-nav {
+    padding-left: 20%;
+
+    font-size: 1.5em;
+}
+.main {
+	margin-top: 30px;
+}
+#man-left ul li {
+	/*background: rgb(150, 185, 125);*/
+	margin-top: 20px;
+	padding-bottom: 20px;
+	font-size: 1.5em;
+	text-align: center
+}
+#manage-nav {
+	background: #f6f6f6;
+}
+.middle-column {
+	width: 80%;
+	display: block;
+	background: #f6f6f6;
+}
+#cezhan {
+	background-image: url(../img/mianhua.png);
+    background-repeat: no-repeat;
+    height: 330px;
+    display: block;
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.show-charts {
+	width: 100%;
+	height: 800px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+.mult-chart {
+    width: 914px;
+    height: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.cezhan {
+	text-align: center;
+	padding-bottom: 30px;
+}
+.button {
+	padding-top: 90px;
+}
